@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplikasi 1_Anila</string>
+    <string name="tambah">Tambah</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="submit">Submit</string>
+</resources>
